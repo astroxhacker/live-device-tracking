@@ -24,7 +24,7 @@ To get started with contributing or deploying your own instance of Live Device T
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/livedevicetracking.git
+   git clone https://github.com/astroxhacker/live-device-tracking.git
    cd livedevicetracking
    ```
 2. **Install Dependencies**:
